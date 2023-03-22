@@ -1,1 +1,2 @@
 Babos Bence
+Richter Norbert
