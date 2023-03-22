@@ -1,1 +1,2 @@
 Babos Bence
+Orosz Péter
