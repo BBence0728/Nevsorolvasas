@@ -8,3 +8,4 @@ Szárnóczki Mihály
 Demeter Tamás
 Szokolóczi Dávid
 Kiss Daniel
+Katona Noa
