@@ -7,3 +7,4 @@ Orosz Péter
 Szárnóczki Mihály
 Demeter Tamás
 Szokolóczi Dávid
+Kiss Daniel
