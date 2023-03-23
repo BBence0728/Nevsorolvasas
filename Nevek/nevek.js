@@ -2,7 +2,7 @@ Babos Bence
 Richter Norbert
 Morvai Ádám
 Fődi Noel
-Kovacs Zsolt
+Kovács Zsolt
 Orosz Péter
 Szárnóczki Mihály
 Demeter Tamás
